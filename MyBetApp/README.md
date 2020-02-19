@@ -26,7 +26,6 @@ GET request on /bet/checkTicket as it says, user can check his ticket  out and s
 ticketAmout as a parameter. The ticket and played games are saved into a database.
 
 The App is still in progress,
-- Currently there are problems with saving the tickets to a database when there are more than 1 games.
 - Game fixes will be added, currently game fixes and quotes are hardcoded.
 
 
