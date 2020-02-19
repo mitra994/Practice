@@ -1,4 +1,4 @@
-package com.codewithmosh;
+package com.mortagecalc;
 
 import java.text.NumberFormat;
 
